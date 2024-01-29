@@ -1,4 +1,4 @@
-package org.facade_dp;
+package com.facade_dp;
 
 public class MultimediaFacade {
     void playAudio(String audio){
